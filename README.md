@@ -51,7 +51,7 @@ pip install pandas seaborn matplotlib
 AUTHOR
 ------------------------------
 Umar Farooq Bhat
-Capstone Project – UpGrad Data Science Program
+Employees performance  Project – UpGrad Data Science Program
 Year: 2025
 
 CONTACT:
